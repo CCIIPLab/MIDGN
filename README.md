@@ -26,10 +26,10 @@ python main.py
 ## Citation
 
 ~~~~
-@article{zhao2022multi,
+@inproceedings{zhao2022multi,
   title={Multi-view intent disentangle graph networks for bundle recommendation},
   author={Zhao, Sen and Wei, Wei and Zou, Ding and Mao, Xianling},
-  journal={arXiv preprint arXiv:2202.11425},
+  booktitle={Proceedings of the 36th AAAI Conference on Artificial Intelligence},
   year={2022}
 }
 ~~~~
